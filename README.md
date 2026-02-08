@@ -1,29 +1,43 @@
-# Ansh Aggarwal | Software Developer
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ansh+Aggarwal+👨‍💻;Computer+Science+@+SFU;Software+Dev+@+CJSF+90.1+FM;Backend+%26+Cloud+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:38BDAE,100:2563EB&height=300&section=header&text=Ansh%20Aggarwal&fontColor=FFFFFF&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Computer%20Science%20@%20SFU%20|%20Backend%20Enthusiast&descAlignY=55&descSize=20)
 
-<div id="badges" style="margin: 20px 0;">
-  <a href="https://www.linkedin.com/in/ansh-aggarwal8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/zorojuro12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:ansh200201@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=850&height=70&lines=Engineering+scalable+backend+solutions;4th+Year+Computer+Science+@+SFU;Transforming+data+into+insights;Developing+the+future%2C+1+commit+at+a+time)](https://github.com/zorojuro12)
 
-<img src="https://komarev.com/ghpvc/?username=zorojuro12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-<h2>
-  Welcome to my GitHub Universe! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-</h2>
+<a href="https://linkedin.com/in/ansh-aggarwal8" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ansh200201@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/zorojuro12/zorojuro12/blob/main/AnshAggarwal_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=zorojuro12&label=Profile%20Views&color=38BDAE&style=for-the-badge" alt="Profile Views" />
 
 </div>
+
+---
+
+## 👋 About Me
+
+<table align="center">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 <b>Currently working on:</b> High-availability microservices for EcoStream [cite: 16, 18]</li>
+        <li>🎓 <b>Education:</b> Computer Science @ Simon Fraser University [cite: 4, 5]</li>
+        <li>💼 <b>Experience:</b> Architecting headless systems and real-time broadcasts [cite: 12, 13]</li>
+        <li>🌱 <b>Currently learning:</b> AI Agent Integration and Distributed Systems [cite: 21, 25]</li>
+        <li>🚀 <b>Passionate about:</b> Clean code, backend scalability, and automation [cite: 23, 50]</li>
+        <li>⚡ <b>Fun fact:</b> I enjoy building scrapers to find the absolute best marketplace deals [cite: 43]</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
