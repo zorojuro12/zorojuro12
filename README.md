@@ -114,3 +114,34 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
   </picture>
 </div>
 
+---
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+*I'm always open to interesting conversations and collaboration opportunities*
+
+<a href="https://linkedin.com/in/ansh-aggarwal8" target="_blank">
+  <img src="https://img.shields.io/badge/LET'S_TALK_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ansh200201@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/zorojuro12" target="_blank">
+  <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<!-- Footer -->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=850&height=70&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%"/>
+</div>
