@@ -116,8 +116,6 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 
 ---
 
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -138,8 +136,6 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 </a>
 
 </div>
-
----
 
 <div align="center">
   <p>📍 Vancouver, BC | 🎓 Simon Fraser University | 🚀 Available for opportunities</p>
