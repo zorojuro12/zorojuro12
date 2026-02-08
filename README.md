@@ -98,10 +98,17 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zorojuro12&show_icons=true&theme=tokyonight" alt="Ansh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zorojuro12&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zorojuro12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zorojuro12&bg_color=f7d1e1&color=7b2cbf&line=7b2cbf&point=240046&area=true&hide_border=true" width="100%" />
+
 </div>
 
+<!--
 ---
 
 ## 📈 Activity Graph
@@ -113,7 +120,7 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zorojuro12/zorojuro12/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
+-->
 ---
 
 ## 🤝 Let's Connect
