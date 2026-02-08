@@ -137,6 +137,8 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 
 </div>
 
+<br/>
+
 <div align="center">
   <p>📍 Vancouver, BC | 🎓 Simon Fraser University | 🚀 Available for opportunities</p>
 </div>
