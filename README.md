@@ -92,7 +92,7 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 | **Deal Sniper** | Real-time Facebook Marketplace scraper using Playwright with instant Telegram alerts. | `TS`, `Playwright`, `Node.js` |
 | **Stubby AI** | AI tutoring platform supporting 8 personalities with 100% client-side PDF processing. | `React`, `Gemini AI`, `Python` |
 | **RNA App** | Full-stack personalized meal scheduler with 90% reduction in manual data entry via APIs. | `Next.js`, `TypeScript`, `Tailwind` |
-
+<!--
 ---
 
 ## 📊 GitHub Statistics
@@ -108,7 +108,6 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 
 </div>
 
-<!--
 ---
 
 ## 📈 Activity Graph
