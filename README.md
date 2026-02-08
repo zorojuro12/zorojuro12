@@ -127,6 +127,9 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 <a href="https://linkedin.com/in/ansh-aggarwal8" target="_blank">
   <img src="https://img.shields.io/badge/LET'S_TALK_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="https://www.instagram.com/YOUR_USERNAME_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 <a href="mailto:ansh200201@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -134,13 +137,14 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
   <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br/>
-
-<img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ca.svg" width="20" alt="Canada Flag"/> **Vancouver, BC**
-
 </div>
 
+---
+
+<div align="center">
+  <p>📍 Vancouver, BC | 🎓 Simon Fraser University | 🚀 Available for opportunities</p>
 </div>
+
 
 <!-- Footer -->
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
