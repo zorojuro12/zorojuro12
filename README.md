@@ -134,6 +134,12 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
   <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+<br/>
+
+<img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ca.svg" width="20" alt="Canada Flag"/> **Vancouver, BC**
+
+</div>
+
 </div>
 
 <!-- Footer -->
