@@ -19,28 +19,6 @@
 
 ---
 
-## 👋 About Me
-
-<table align="center">
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🔭 <b>Currently working on:</b> High-availability microservices for EcoStream [cite: 16, 18]</li>
-        <li>🎓 <b>Education:</b> Computer Science @ Simon Fraser University [cite: 4, 5]</li>
-        <li>💼 <b>Experience:</b> Architecting headless systems and real-time broadcasts [cite: 12, 13]</li>
-        <li>🌱 <b>Currently learning:</b> AI Agent Integration and Distributed Systems [cite: 21, 25]</li>
-        <li>🚀 <b>Passionate about:</b> Clean code, backend scalability, and automation [cite: 23, 50]</li>
-        <li>⚡ <b>Fun fact:</b> I enjoy building scrapers to find the absolute best marketplace deals [cite: 43]</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🚀 About Me
 
 I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fraser University**. I specialize in building scalable backend systems, microservices, and AI-driven applications. Currently, I'm modernizing web infrastructure for **CJSF 90.1 FM Radio**.
