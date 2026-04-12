@@ -23,7 +23,8 @@
 
 I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fraser University**. I specialize in building scalable backend systems, microservices, and AI-driven applications. Currently, I'm modernizing web infrastructure for **CJSF 90.1 FM Radio**.
 
-- 🔭 **Currently:** Software Developer at **CJSF 90.1 FM Radio** - Migrating to Headless Next.js & Strapi
+- 🔭 **Currently:** Software Engineer at **CJSF 90.1 FM Radio** (building PCI-compliant payment architectures) & Incoming Developer at **SFU Blueprint**
+- 🏆 **Recent Achievement:** 1st Place at Google DSC Hackathon (built EMBER, an AI evacuation orchestrator)
 - 🎓 **Education:** BSc in Computer Science at **Simon Fraser University** (Graduating May 2027)
 - ⚙️ **Specialization:** Backend Logic, Microservices Architecture, Cloud Computing (AWS)
 - 🤖 **Interests:** AI/ML Integration, Automated Trading Bots, Scalable Data Systems
@@ -80,7 +81,8 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 
 | Company | Role | Key Achievements |
 | :--- | :--- | :--- |
-| **CJSF 90.1 FM Radio** | Software Developer | Migrated to headless architecture (Next.js/Strapi), improving content efficiency by 50%. Architected dynamic routes for live broadcast metadata. |
+| **CJSF 90.1 FM Radio** | Software Engineer | Architected PCI-compliant payment flows (Moneris) with Node.js/Express middleware and automated transactional email systems. |
+| **SFU Blueprint** | Software Developer *(Incoming)* | Developing a Next.js/Supabase platform to automate environmental incident reporting, targeting a 90% reduction in manual processing time. |
 
 ---
 
@@ -88,10 +90,10 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **EcoStream Engine** | AI-driven logistics microservices with serverless AWS Lambda pipelines and 99.9% availability. | `Java`, `Spring Boot`, `AWS`, `Python` |
-| **Deal Sniper** | Real-time Facebook Marketplace scraper using Playwright with instant Telegram alerts. | `TS`, `Playwright`, `Node.js` |
-| **Stubby AI** | AI tutoring platform supporting 8 personalities with 100% client-side PDF processing. | `React`, `Gemini AI`, `Python` |
-| **RNA App** | Full-stack personalized meal scheduler with 90% reduction in manual data entry via APIs. | `Next.js`, `TypeScript`, `Tailwind` |
+| **EMBER** 🥇 *1st Place Google DSC* | Asyncio multi-agent orchestrator with geospatial safety logic (Shapely) and Claude 3.5 for dynamic fire evacuation routing. | `FastAPI`, `React`, `TS`, `Vercel` |
+| **EcoStream Engine** | AI-driven logistics microservices with serverless AWS Lambda pipelines, 99.9% availability, and Scikit-Learn ETA predictions. | `Java`, `Spring Boot`, `AWS`, `Python` |
+| **Deal Sniper** | Real-time Facebook Marketplace scraper using Playwright with instant Telegram deal alerts and SSE live monitoring. | `TS`, `Playwright`, `Node.js` |
+| **Stubby AI** | AI tutoring platform supporting 8 personalities with 100% client-side PDF processing and ElevenLabs bidirectional voice AI. | `React`, `Gemini AI`, `Python` |
 <!--
 ---
 
