@@ -94,7 +94,7 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 | **EcoStream Engine** | AI-driven logistics microservices with serverless AWS Lambda pipelines, 99.9% availability, and Scikit-Learn ETA predictions. | `Java`, `Spring Boot`, `AWS`, `Python` |
 | **Deal Sniper** | Real-time Facebook Marketplace scraper using Playwright with instant Telegram deal alerts and SSE live monitoring. | `TS`, `Playwright`, `Node.js` |
 | **Stubby AI** | AI tutoring platform supporting 8 personalities with 100% client-side PDF processing and ElevenLabs bidirectional voice AI. | `React`, `Gemini AI`, `Python` |
-<!--
+
 ---
 
 ## 📊 GitHub Statistics
