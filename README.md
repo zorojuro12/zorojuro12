@@ -138,7 +138,7 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 <a href="https://linkedin.com/in/ansh-aggarwal8" target="_blank">
   <img src="https://img.shields.io/badge/LET'S_TALK_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.instagram.com/YOUR_USERNAME_HERE" target="_blank">
+<a href="https://www.instagram.com/_anxh_1" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="mailto:ansh200201@gmail.com" target="_blank">
