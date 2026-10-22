@@ -20,7 +20,8 @@
 
 I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fraser University**. I specialize in building scalable backend systems, microservices, and AI-driven applications. Currently, I'm modernizing web infrastructure for **CJSF 90.1 FM Radio**.
 
-- 🔭 **Currently:** Software Engineer at **CJSF 90.1 FM Radio** (building PCI-compliant payment architectures) & Software Developer at **SFU Blueprint**
+- 🔭 **Currently:** Software Engineer at **CJSF 90.1 FM Radio**, building PCI-compliant payment flows
+- 🌱 **Also:** Software Developer at **SFU Blueprint**
 - 🏆 **Recent Achievement:** 1st Place at Google DSC Hackathon (built EMBER, an AI evacuation orchestrator)
 - 🎓 **Education:** BSc in Computer Science at **Simon Fraser University** (Graduating May 2027)
 - ⚙️ **Specialization:** Backend Logic, Microservices Architecture, Cloud Computing (AWS)
