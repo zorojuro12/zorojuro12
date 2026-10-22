@@ -26,7 +26,7 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 - 🎓 **Education:** BSc in Computer Science at **Simon Fraser University** (Graduating May 2027)
 - ⚙️ **Specialization:** Backend Logic, Microservices Architecture, Cloud Computing (AWS)
 - 🤖 **Interests:** AI/ML Integration, Automated Trading Bots, Scalable Data Systems
-- 💡 **Focus:** Engineering high-availability systems with 99.9% uptime
+- 💡 **Focus:** Systems that stay correct under load, like transactional outboxes, double-entry ledgers and deterministic tick loops
 - 📫 **Reach me:** `ansh200201 [at] gmail [dot] com`
 
 ---
