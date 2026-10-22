@@ -7,9 +7,6 @@
 <a href="https://linkedin.com/in/ansh-aggarwal8" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:ansh200201@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
 <a href="https://github.com/zorojuro12/zorojuro12/blob/main/AnshAggarwal_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
 </a>
@@ -29,7 +26,7 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 - ⚙️ **Specialization:** Backend Logic, Microservices Architecture, Cloud Computing (AWS)
 - 🤖 **Interests:** AI/ML Integration, Automated Trading Bots, Scalable Data Systems
 - 💡 **Focus:** Engineering high-availability systems with 99.9% uptime
-- 📫 **Reach me:** [ansh200201@gmail.com](mailto:ansh200201@gmail.com)
+- 📫 **Reach me:** `ansh200201 [at] gmail [dot] com`
 
 ---
 
@@ -140,9 +137,6 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 </a>
 <a href="https://www.instagram.com/_anxh_1" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:ansh200201@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/zorojuro12" target="_blank">
   <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
