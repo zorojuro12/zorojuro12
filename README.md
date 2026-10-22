@@ -23,7 +23,7 @@
 
 I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fraser University**. I specialize in building scalable backend systems, microservices, and AI-driven applications. Currently, I'm modernizing web infrastructure for **CJSF 90.1 FM Radio**.
 
-- 🔭 **Currently:** Software Engineer at **CJSF 90.1 FM Radio** (building PCI-compliant payment architectures) & Incoming Developer at **SFU Blueprint**
+- 🔭 **Currently:** Software Engineer at **CJSF 90.1 FM Radio** (building PCI-compliant payment architectures) & Software Developer at **SFU Blueprint**
 - 🏆 **Recent Achievement:** 1st Place at Google DSC Hackathon (built EMBER, an AI evacuation orchestrator)
 - 🎓 **Education:** BSc in Computer Science at **Simon Fraser University** (Graduating May 2027)
 - ⚙️ **Specialization:** Backend Logic, Microservices Architecture, Cloud Computing (AWS)
@@ -38,6 +38,7 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 ### 🛠️ Programming Languages
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -66,6 +67,9 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Bedrock"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -82,7 +86,7 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 | Company | Role | Key Achievements |
 | :--- | :--- | :--- |
 | **CJSF 90.1 FM Radio** | Software Engineer | Architected PCI-compliant payment flows (Moneris) with Node.js/Express middleware and automated transactional email systems. |
-| **SFU Blueprint** | Software Developer *(Incoming)* | Developing a Next.js/Supabase platform to automate environmental incident reporting, targeting a 90% reduction in manual processing time. |
+| **SFU Blueprint** | Software Developer | Developing a Next.js/Supabase platform to automate environmental incident reporting, targeting a 90% reduction in manual processing time. |
 
 ---
 
@@ -90,10 +94,11 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **CallIt** | Real-time flash-prediction platform for watch parties with live pari-mutuel odds. Transactional outbox (Redis Lua → Kafka) feeds a double-entry PostgreSQL ledger; load-tested with k6. | `Go`, `Kafka`, `Redis`, `PostgreSQL`, `Next.js` |
+| **Tickwire** | Authoritative multiplayer game server over raw UDP: fixed-tick deterministic sim, client prediction + reconciliation, delta-compressed snapshots, and lag compensation (100% vs 10.7% hit rate at 200 ms RTT). | `C++20`, `UDP`, `raylib` |
+| **Zoomies** 🐶 *StormHacks 2026* | One photo of a dog becomes a desktop pet: Gemini measures the photo, rendered via SDF ray-marching + a Gaussian-splat coat, with physics against your real windows. | `Electron`, `TS`, `Three.js`, `Gemini` |
 | **EMBER** 🥇 *1st Place Google DSC* | Asyncio multi-agent orchestrator with geospatial safety logic (Shapely) and Claude 3.5 for dynamic fire evacuation routing. | `FastAPI`, `React`, `TS`, `Vercel` |
 | **EcoStream Engine** | AI-driven logistics microservices with serverless AWS Lambda pipelines, 99.9% availability, and Scikit-Learn ETA predictions. | `Java`, `Spring Boot`, `AWS`, `Python` |
-| **Deal Sniper** | Real-time Facebook Marketplace scraper using Playwright with instant Telegram deal alerts and SSE live monitoring. | `TS`, `Playwright`, `Node.js` |
-| **Stubby AI** | AI tutoring platform supporting 8 personalities with 100% client-side PDF processing and ElevenLabs bidirectional voice AI. | `React`, `Gemini AI`, `Python` |
 
 ---
 
@@ -121,7 +126,7 @@ I'm a **Software Developer** and 4th-year Computer Science student at **Simon Fr
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zorojuro12/zorojuro12/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
--->
+
 ---
 
 ## 🤝 Let's Connect
